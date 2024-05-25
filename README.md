@@ -22,6 +22,10 @@ This Python script serves as a simple password manager application. It allows us
    - Users can view all stored passwords by clicking the "Show My Passwords" button.
    - This action requires verification of the master password.
 ## Outputs
+### Password manager
+![iamproprogramr](Passwordmanager.png)
+### Stored passwords
+![iamproprogramr](Storedpasswords.png)
 
 ## Requirements
 - Python 3.x
